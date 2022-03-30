@@ -1,0 +1,4 @@
+1, Test Method "testPackage.TestSignUp.assertThatMyAccountLabelIsDisplayed" failed. Please investigate and open a new Issue if needed.
+2, Test Method "testPackage.AuthenticateNewUser.AssertThatUserIsLoggedIn" failed. Please investigate and open a new Issue if needed.
+3, Test Method "testPackage.TestSubCategoryIsSelected.AssertOnSelectingSubCategory" failed. Please investigate and open a new Issue if needed.
+4, Test Method "testPackage.TestAddToCartFunctionality.VerifyAddingToCart" failed. Please investigate and open a new Issue if needed.

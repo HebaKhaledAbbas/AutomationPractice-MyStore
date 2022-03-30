@@ -1,0 +1,25 @@
+[
+{
+  "firstname" : "Heba",
+  "lastname" : "khaled",
+  "password" : "12345",
+  "Address" : "Cairo NasrCity",
+  "City" : "NasrCity " ,
+  "PostalCode" : "11311",
+  "Mobile" : "01023443444" ,
+  "AliaAddress" : "Cairo"                      
+}
+,
+{
+  "firstname" : "2222222222222",
+  "lastname" : "222222222222",
+  "password" : "12345",
+  "Address" : "Cairo NasrCity",
+  "City" : "NasrCity " ,
+  "PostalCode" : "11311",
+  "Mobile" : "01023443444" ,
+  "AliaAddress" : "Cairo"                      
+}
+
+
+]
